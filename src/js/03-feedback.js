@@ -1,4 +1,6 @@
-var throttle = require('lodash.throttle');
+// var throttle = require('lodash.throttle');
+import throttle from 'lodash.throttle';
+
 const STORAGE_KEY = 'feedback-form-state';
 const form = document.querySelector('form');
 function populateInputValues() {
