@@ -1,4 +1,4 @@
-4794
+4799
 65D:\Projects\goit-js-hw-08\node_modules\react-refresh\package.json133132388009286208 0
 75D:\Projects\goit-js-hw-08\node_modules\@parcel\source-map\dist\SourceMap.js133132388015976201 0
 123D:\Projects\goit-js-hw-08\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-module-fallback\main.js133132388040246609 0
@@ -11,7 +11,7 @@
 58D:\Projects\goit-js-hw-08\node_modules\detect-libc\LICENSE133132387995951825 0
 39D:\Projects\goit-js-hw-08\.editorconfig133132375283390727 0
 70D:\Projects\goit-js-hw-08\node_modules\caniuse-lite\data\regions\TD.js133132388070266612 0
-46D:\Projects\goit-js-hw-08\node_modules\@parcel133138402703893246 1
+46D:\Projects\goit-js-hw-08\node_modules\@parcel133138422311122382 1
 57D:\Projects\goit-js-hw-08\node_modules\nullthrows\LICENSE133132387986752605 0
 92D:\Projects\goit-js-hw-08\node_modules\caniuse-lite\data\features\upgradeinsecurerequests.js133132388071276616 0
 90D:\Projects\goit-js-hw-08\node_modules\caniuse-lite\data\features\link-rel-dns-prefetch.js133132388065076606 0
@@ -36,8 +36,8 @@
 47D:\Projects\goit-js-hw-08\node_modules\@nodelib133132387956707564 1
 88D:\Projects\goit-js-hw-08\node_modules\@jridgewell\source-map\dist\types\source-map.d.ts133132388012066211 0
 78D:\Projects\goit-js-hw-08\node_modules\utility-types\dist\utility-types.js.map133132388012086214 0
-71D:\Projects\goit-js-hw-08\node_modules\cosmiconfig\dist\cacheWrapper.js133132387987462598 0
 33D:\Projects\goit-js-hw-08\.github133132375652505479 1
+71D:\Projects\goit-js-hw-08\node_modules\cosmiconfig\dist\cacheWrapper.js133132387987462598 0
 48D:\Projects\goit-js-hw-08\node_modules\@mischnic133132387956597556 1
 68D:\Projects\goit-js-hw-08\node_modules\@parcel\utils\src\Deferred.js133132388015566209 0
 67D:\Projects\goit-js-hw-08\node_modules\postcss-value-parser\LICENSE133132387985272608 0
@@ -55,7 +55,7 @@
 57D:\Projects\goit-js-hw-08\node_modules\@parcel\diagnostic133132388000931830 1
 68D:\Projects\goit-js-hw-08\node_modules\@babel\highlight\node_modules133132387956747556 1
 70D:\Projects\goit-js-hw-08\node_modules\caniuse-lite\data\regions\TK.js133132388070746611 0
-56D:\Projects\goit-js-hw-08\dist\goit-js-hw-08.59712999.js133138415369134068 0
+56D:\Projects\goit-js-hw-08\dist\goit-js-hw-08.59712999.js133138473638965742 0
 56D:\Projects\goit-js-hw-08\node_modules\binary-extensions133132388002901831 1
 65D:\Projects\goit-js-hw-08\node_modules\svgo\plugins\cleanupIDs.js133132388012746212 0
 70D:\Projects\goit-js-hw-08\node_modules\cosmiconfig\dist\index.d.ts.map133132388023456608 0
@@ -71,7 +71,7 @@
 119D:\Projects\goit-js-hw-08\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-false-glob\sub133132388045696619 1
 59D:\Projects\goit-js-hw-08\node_modules\color-name\README.md133132387994471831 0
 68D:\Projects\goit-js-hw-08\node_modules\@parcel\packager-html\LICENSE133132387985532614 0
-56D:\Projects\goit-js-hw-08\node_modules\@msgpackr-extract133138402703893246 1
+56D:\Projects\goit-js-hw-08\node_modules\@msgpackr-extract133138422311122382 1
 36D:\Projects\goit-js-hw-08\.gitignore133132374743359798 0
 67D:\Projects\goit-js-hw-08\node_modules\@parcel\workers\lib\child.js133132388002931835 0
 29D:\Projects\goit-js-hw-08\src133132376680372704 1
@@ -115,22 +115,22 @@
 70D:\Projects\goit-js-hw-08\node_modules\@parcel\transformer-svg\LICENSE133132387985462592 0
 45D:\Projects\goit-js-hw-08\node_modules\@babel133132387956707564 1
 47D:\Projects\goit-js-hw-08\node_modules\escalade133132388005446207 1
-30D:\Projects\goit-js-hw-08\dist133138420373284051 1
+30D:\Projects\goit-js-hw-08\dist133138486477565933 1
 63D:\Projects\goit-js-hw-08\node_modules\postcss-value-parser\lib133132388007816196 1
 73D:\Projects\goit-js-hw-08\node_modules\caniuse-lite\data\features\opus.js133132388067216621 0
 63D:\Projects\goit-js-hw-08\node_modules\to-regex-range\README.md133132387994971828 0
 70D:\Projects\goit-js-hw-08\node_modules\caniuse-lite\data\regions\PM.js133132388067706604 0
 64D:\Projects\goit-js-hw-08\node_modules\csso\lib\replace\index.js133132388029266609 0
-38D:\Projects\goit-js-hw-08\node_modules133138402703893246 1
+38D:\Projects\goit-js-hw-08\node_modules133138422311122382 1
 55D:\Projects\goit-js-hw-08\node_modules\lmdb\binding.gyp133132388047266617 0
 57D:\Projects\goit-js-hw-08\node_modules\micromatch\LICENSE133132387985312594 0
 68D:\Projects\goit-js-hw-08\node_modules\@swc\helpers\src\_defaults.js133132388050316608 0
 80D:\Projects\goit-js-hw-08\node_modules\caniuse-lite\data\features\videotracks.js133132388071676609 0
-43D:\Projects\goit-js-hw-08\package-lock.json133138402705100595 0
+43D:\Projects\goit-js-hw-08\package-lock.json133138422312562379 0
 68D:\Projects\goit-js-hw-08\node_modules\msgpackr-extract\node_modules133132388077220771 1
 71D:\Projects\goit-js-hw-08\node_modules\cosmiconfig\dist\readFile.js.map133132388025706608 0
 46D:\Projects\goit-js-hw-08\node_modules\globals133132388002241832 1
-38D:\Projects\goit-js-hw-08\package.json133138402705186175 0
+38D:\Projects\goit-js-hw-08\package.json133138422312642372 0
 64D:\Projects\goit-js-hw-08\node_modules\fast-glob\out\utils\fs.js133132388011636203 0
 77D:\Projects\goit-js-hw-08\node_modules\svgo\plugins\addClassesToSVGElement.js133132388008986204 0
 56D:\Projects\goit-js-hw-08\node_modules\type-fest\license133132387985202606 0
@@ -170,6 +170,8 @@
 60D:\Projects\goit-js-hw-08\node_modules\chokidar\package.json133132388003636190 0
 58D:\Projects\goit-js-hw-08\node_modules\@parcel\logger\test133132387997251830 1
 47D:\Projects\goit-js-hw-08\node_modules\anymatch133132387997981829 1
+64D:\Projects\goit-js-hw-08\node_modules\msgpackr\rollup.config.js133132388011876214 0
+54D:\Projects\goit-js-hw-08\node_modules\lodash.throttle133138422310642377 1
 79D:\Projects\goit-js-hw-08\node_modules\@babel\highlight\node_modules\color-name133132388003076213 1
 38D:\Projects\goit-js-hw-08\README.uk.md133132375283480731 0
 58D:\Projects\goit-js-hw-08\node_modules\lmdb\src\writer.cpp133132388046726610 0
@@ -221,14 +223,14 @@
 84D:\Projects\goit-js-hw-08\node_modules\css-select\lib\pseudo-selectors\subselects.js133132388013836212 0
 48D:\Projects\goit-js-hw-08\node_modules\nan\nan.h133132388023486618 0
 70D:\Projects\goit-js-hw-08\node_modules\caniuse-lite\data\regions\JM.js133132388062916614 0
-46D:\Projects\goit-js-hw-08\src\js\01-gallery.js133138401450905632 0
+46D:\Projects\goit-js-hw-08\src\js\01-gallery.js133138456560846025 0
 76D:\Projects\goit-js-hw-08\node_modules\css-tree\lib\syntax\scope\selector.js133132388049246610 0
 47D:\Projects\goit-js-hw-08\node_modules\css-what133132388020566613 1
-44D:\Projects\goit-js-hw-08\src\js\02-video.js133138420371570648 0
+44D:\Projects\goit-js-hw-08\src\js\02-video.js133138456512091872 0
 88D:\Projects\goit-js-hw-08\node_modules\simplelightbox\dist\simple-lightbox.jquery.min.js133138390144121833 0
 93D:\Projects\goit-js-hw-08\node_modules\@parcel\package-manager\src\validateModuleSpecifier.js133132388029036611 0
 71D:\Projects\goit-js-hw-08\node_modules\@nodelib\fs.scandir\out\index.js133132388005976203 0
-47D:\Projects\goit-js-hw-08\src\js\03-feedback.js133132304220000000 0
+47D:\Projects\goit-js-hw-08\src\js\03-feedback.js133138486475885876 0
 70D:\Projects\goit-js-hw-08\node_modules\caniuse-lite\data\regions\PR.js133132388067826603 0
 101D:\Projects\goit-js-hw-08\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV5\files\embed133132388040806610 1
 49D:\Projects\goit-js-hw-08\node_modules\color-name133132387993801816 1
@@ -256,7 +258,7 @@
 43D:\Projects\goit-js-hw-08\node_modules\.bin133132388077440761 1
 44D:\Projects\goit-js-hw-08\src\css\common.css133132304220000000 0
 81D:\Projects\goit-js-hw-08\node_modules\@parcel\node-resolver-core\src\builtins.js133132388020096607 0
-57D:\Projects\goit-js-hw-08\node_modules\.package-lock.json133138402706068592 0
+57D:\Projects\goit-js-hw-08\node_modules\.package-lock.json133138422313282392 0
 74D:\Projects\goit-js-hw-08\node_modules\simplelightbox\demo\img\full\02.jpg133138390139161763 0
 43D:\Projects\goit-js-hw-08\node_modules\@swc133132387956677554 1
 60D:\Projects\goit-js-hw-08\node_modules\mdn-data\css\index.js133132387991792599 0
@@ -575,6 +577,7 @@
 56D:\Projects\goit-js-hw-08\node_modules\fclone\.npmignore133132387986822600 0
 55D:\Projects\goit-js-hw-08\node_modules\posthtml-include133132387993881817 1
 57D:\Projects\goit-js-hw-08\node_modules\anymatch\README.md133132387994431819 0
+64D:\Projects\goit-js-hw-08\node_modules\lodash.throttle\README.md133138422310482284 0
 88D:\Projects\goit-js-hw-08\node_modules\caniuse-lite\data\features\once-event-listener.js133132388067146613 0
 64D:\Projects\goit-js-hw-08\node_modules\yaml\browser\parse-cst.js133132388022276619 0
 68D:\Projects\goit-js-hw-08\node_modules\source-map\lib\source-node.js133132388014356211 0
@@ -748,6 +751,7 @@
 83D:\Projects\goit-js-hw-08\node_modules\css-select\lib\pseudo-selectors\filters.d.ts133132388026816615 0
 69D:\Projects\goit-js-hw-08\node_modules\postcss-value-parser\README.md133132388005666206 0
 65D:\Projects\goit-js-hw-08\node_modules\entities\lib\maps\xml.json133132388014936205 0
+63D:\Projects\goit-js-hw-08\node_modules\lodash.throttle\index.js133138422310802383 0
 59D:\Projects\goit-js-hw-08\node_modules\terser\lib\output.js133132388035596601 0
 69D:\Projects\goit-js-hw-08\node_modules\yaml\dist\Document-9b4560a1.js133132387999061829 0
 79D:\Projects\goit-js-hw-08\node_modules\caniuse-lite\data\features\ogg-vorbis.js133132388067086609 0
@@ -786,7 +790,7 @@
 67D:\Projects\goit-js-hw-08\node_modules\yaml\dist\Schema-88e323a7.js133132388028136609 0
 55D:\Projects\goit-js-hw-08\node_modules\semver\README.md133132388004776204 0
 87D:\Projects\goit-js-hw-08\node_modules\@swc\helpers\src\_possible_constructor_return.js133132388053506612 0
-60D:\Projects\goit-js-hw-08\dist\goit-js-hw-08.59712999.js.map133138415369454061 0
+60D:\Projects\goit-js-hw-08\dist\goit-js-hw-08.59712999.js.map133138473639205742 0
 71D:\Projects\goit-js-hw-08\node_modules\sass\types\legacy\exception.d.ts133132388043076604 0
 64D:\Projects\goit-js-hw-08\node_modules\dotenv\lib\env-options.js133132388004036199 0
 63D:\Projects\goit-js-hw-08\node_modules\yaml\dist\test-events.js133132388032786609 0
@@ -1398,7 +1402,7 @@
 60D:\Projects\goit-js-hw-08\node_modules\source-map-js\LICENSE133132387985222603 0
 88D:\Projects\goit-js-hw-08\node_modules\caniuse-lite\data\features\css-scroll-behavior.js133132388056896612 0
 79D:\Projects\goit-js-hw-08\node_modules\@swc\helpers\lib\_object_spread_props.js133132388038976613 0
-59D:\Projects\goit-js-hw-08\dist\03-feedback.ba2d0753.css.map133138415369454061 0
+59D:\Projects\goit-js-hw-08\dist\03-feedback.ba2d0753.css.map133138473638965742 0
 62D:\Projects\goit-js-hw-08\node_modules\csso\lib\clean\utils.js133132388035736613 0
 75D:\Projects\goit-js-hw-08\node_modules\simplelightbox\demo\img\thumb\04.jpg133138390141081821 0
 65D:\Projects\goit-js-hw-08\node_modules\source-map-js\package.json133132388014866209 0
@@ -1406,10 +1410,10 @@
 68D:\Projects\goit-js-hw-08\node_modules\fast-glob\out\utils\stream.js133132388024006613 0
 61D:\Projects\goit-js-hw-08\node_modules\import-fresh\readme.md133132387994241819 0
 62D:\Projects\goit-js-hw-08\node_modules\source-map-js\README.md133132388016956604 0
+62D:\Projects\goit-js-hw-08\node_modules\@parcel\hash\browser.js133132387989972600 0
 102D:\Projects\goit-js-hw-08\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV4\package.json133132388023896608 0
 70D:\Projects\goit-js-hw-08\node_modules\caniuse-lite\data\regions\UZ.js133132388071466613 0
 86D:\Projects\goit-js-hw-08\node_modules\@parcel\transformer-html\lib\HTMLTransformer.js133132387997981829 0
-62D:\Projects\goit-js-hw-08\node_modules\@parcel\hash\browser.js133132387989972600 0
 69D:\Projects\goit-js-hw-08\node_modules\source-map-js\lib\array-set.js133132387987292598 0
 70D:\Projects\goit-js-hw-08\node_modules\css-tree\lib\syntax\node\CDO.js133132388014056206 0
 90D:\Projects\goit-js-hw-08\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_dump.c133132388033376616 0
@@ -1613,7 +1617,7 @@
 60D:\Projects\goit-js-hw-08\node_modules\safe-buffer\README.md133132387995041838 0
 71D:\Projects\goit-js-hw-08\node_modules\htmlnano\docs\versioned_sidebars133132388036806617 1
 85D:\Projects\goit-js-hw-08\node_modules\parcel-reporter-clean-dist\test\fixtures\files133132388033836606 1
-55D:\Projects\goit-js-hw-08\dist\03-feedback.ba2d0753.css133138415369134068 0
+55D:\Projects\goit-js-hw-08\dist\03-feedback.ba2d0753.css133138473638965742 0
 55D:\Projects\goit-js-hw-08\node_modules\@parcel\css\node133132388005656203 1
 64D:\Projects\goit-js-hw-08\node_modules\dotenv-expand\lib\main.js133132388001591814 0
 60D:\Projects\goit-js-hw-08\node_modules\run-parallel\index.js133132387986642598 0
@@ -1803,7 +1807,6 @@
 70D:\Projects\goit-js-hw-08\node_modules\@parcel\runtime-browser-hmr\lib133132388000801831 1
 53D:\Projects\goit-js-hw-08\node_modules\@parcel\fs\lib133132388020836612 1
 73D:\Projects\goit-js-hw-08\node_modules\node-addon-api\tools\check-napi.js133132388013896198 0
-77D:\Projects\goit-js-hw-08\node_modules\cosmiconfig\dist\cacheWrapper.d.ts.map133132388013306209 0
 74D:\Projects\goit-js-hw-08\node_modules\postcss-value-parser\lib\index.d.ts133132388008966214 0
 84D:\Projects\goit-js-hw-08\node_modules\caniuse-lite\data\features\async-functions.js133132388031116610 0
 72D:\Projects\goit-js-hw-08\node_modules\postcss-value-parser\lib\parse.js133132387990622592 0
@@ -1891,6 +1894,7 @@
 75D:\Projects\goit-js-hw-08\node_modules\css-tree\lib\syntax\node\Function.js133132388036576615 0
 118D:\Projects\goit-js-hw-08\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV5\files\embed\embed2\file3.txt133132388040956609 0
 79D:\Projects\goit-js-hw-08\node_modules\fast-glob\out\providers\filters\error.js133132388010326209 0
+67D:\Projects\goit-js-hw-08\node_modules\lodash.throttle\package.json133138422310482284 0
 95D:\Projects\goit-js-hw-08\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV4\files133132388036796609 1
 79D:\Projects\goit-js-hw-08\node_modules\@parcel\graph\test\AdjacencyList.test.js133132388004636202 0
 60D:\Projects\goit-js-hw-08\node_modules\fastq\test\example.ts133132388011306205 0
@@ -2140,7 +2144,6 @@
 56D:\Projects\goit-js-hw-08\node_modules\msgpackr\index.js133132388001581816 0
 73D:\Projects\goit-js-hw-08\node_modules\css-what\lib\es\stringify.d.ts.map133132388017486607 0
 55D:\Projects\goit-js-hw-08\node_modules\msgpackr\pack.js133132388010716195 0
-64D:\Projects\goit-js-hw-08\node_modules\msgpackr\rollup.config.js133132388011876214 0
 59D:\Projects\goit-js-hw-08\node_modules\msgpackr\SECURITY.md133132388020196621 0
 59D:\Projects\goit-js-hw-08\node_modules\msgpackr\unpack.d.ts133132388022246620 0
 56D:\Projects\goit-js-hw-08\node_modules\json5\lib\util.js133132388012426200 0
@@ -2205,6 +2208,9 @@
 80D:\Projects\goit-js-hw-08\node_modules\@parcel\utils\src\generateBuildMetrics.js133132388018206610 0
 70D:\Projects\goit-js-hw-08\node_modules\caniuse-lite\data\regions\AS.js133132388029236618 0
 68D:\Projects\goit-js-hw-08\node_modules\mdn-data\api\inheritance.json133132388013796206 0
+67D:\Projects\goit-js-hw-08\node_modules\domutils\lib\manipulation.js133132388002331826 0
+62D:\Projects\goit-js-hw-08\node_modules\lodash.throttle\LICENSE133138422310562366 0
+75D:\Projects\goit-js-hw-08\node_modules\caniuse-lite\data\features\run-in.js133132388068766608 0
 70D:\Projects\goit-js-hw-08\node_modules\lmdb-win32-x64\node.abi102.node133132388008836192 0
 74D:\Projects\goit-js-hw-08\node_modules\caniuse-lite\data\features\proxy.js133132388068106606 0
 70D:\Projects\goit-js-hw-08\node_modules\caniuse-lite\data\regions\SA.js133132388068796606 0
@@ -2257,8 +2263,8 @@
 114D:\Projects\goit-js-hw-08\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.linux-x64-gnu.node133132388042626609 0
 109D:\Projects\goit-js-hw-08\node_modules\@parcel\core\test\fixtures\config-extends-not-found\.parcelrc-multiple133132388015086202 0
 55D:\Projects\goit-js-hw-08\node_modules\lmdb\SECURITY.md133132388052456621 0
-47D:\Projects\goit-js-hw-08\node_modules\lmdb\src133132388047496609 1
 64D:\Projects\goit-js-hw-08\node_modules\@parcel\hash\package.json133132387998921831 0
+47D:\Projects\goit-js-hw-08\node_modules\lmdb\src133132388047496609 1
 58D:\Projects\goit-js-hw-08\node_modules\dotenv\CHANGELOG.md133132387986872601 0
 70D:\Projects\goit-js-hw-08\node_modules\caniuse-lite\data\regions\BT.js133132388044956601 0
 72D:\Projects\goit-js-hw-08\node_modules\caniuse-lite\data\features\es6.js133132388059416611 0
@@ -2439,8 +2445,8 @@
 81D:\Projects\goit-js-hw-08\node_modules\caniuse-lite\data\features\css-overflow.js133132388056506612 0
 58D:\Projects\goit-js-hw-08\node_modules\json5\lib\util.d.ts133132388022496618 0
 73D:\Projects\goit-js-hw-08\node_modules\@parcel\core\src\InternalConfig.js133132388044906610 0
-58D:\Projects\goit-js-hw-08\node_modules\json5\dist\index.js133132387990692619 0
 65D:\Projects\goit-js-hw-08\node_modules\@parcel\hash\index.js.flow133132387987122605 0
+58D:\Projects\goit-js-hw-08\node_modules\json5\dist\index.js133132387990692619 0
 62D:\Projects\goit-js-hw-08\node_modules\json5\dist\index.min.js133132388000601822 0
 63D:\Projects\goit-js-hw-08\node_modules\json5\dist\index.min.mjs133132388016836764 0
 81D:\Projects\goit-js-hw-08\node_modules\json-parse-even-better-errors\CHANGELOG.md133132387989612600 0
@@ -2471,8 +2477,8 @@
 79D:\Projects\goit-js-hw-08\node_modules\@nodelib\fs.scandir\out\types\index.d.ts133132388021336616 0
 55D:\Projects\goit-js-hw-08\node_modules\is-glob\index.js133132387986802595 0
 73D:\Projects\goit-js-hw-08\node_modules\@parcel\core\src\public\Symbols.js133132388052446612 0
-75D:\Projects\goit-js-hw-08\node_modules\cosmiconfig\dist\cacheWrapper.js.map133132388014226215 0
 59D:\Projects\goit-js-hw-08\node_modules\is-glob\package.json133132387989632596 0
+75D:\Projects\goit-js-hw-08\node_modules\cosmiconfig\dist\cacheWrapper.js.map133132388014226215 0
 78D:\Projects\goit-js-hw-08\node_modules\css-tree\lib\syntax\pseudo\nth-child.js133132388046266606 0
 64D:\Projects\goit-js-hw-08\node_modules\@lezer\lr\dist\token.d.ts133132388013126202 0
 56D:\Projects\goit-js-hw-08\node_modules\is-glob\README.md133132387995831850 0
@@ -2798,7 +2804,6 @@
 75D:\Projects\goit-js-hw-08\node_modules\@parcel\transformer-css\package.json133132387997991833 0
 73D:\Projects\goit-js-hw-08\node_modules\domutils\lib\manipulation.d.ts.map133132388015556208 0
 70D:\Projects\goit-js-hw-08\node_modules\caniuse-lite\data\regions\GR.js133132388061086607 0
-67D:\Projects\goit-js-hw-08\node_modules\domutils\lib\manipulation.js133132388002331826 0
 98D:\Projects\goit-js-hw-08\node_modules\caniuse-lite\data\features\domfocusin-domfocusout-events.js133132388058936609 0
 65D:\Projects\goit-js-hw-08\node_modules\domutils\lib\querying.d.ts133132388023746618 0
 56D:\Projects\goit-js-hw-08\node_modules\csso\CHANGELOG.md133132388037336608 0
@@ -2961,7 +2966,7 @@
 76D:\Projects\goit-js-hw-08\node_modules\css-tree\lib\syntax\node\Dimension.js133132388033926609 0
 72D:\Projects\goit-js-hw-08\node_modules\@jridgewell\resolve-uri\README.md133132388003136197 0
 71D:\Projects\goit-js-hw-08\node_modules\css-tree\lib\syntax\node\Hash.js133132388038766614 0
-58D:\Projects\goit-js-hw-08\dist\01-gallery.7d68834f.css.map133138415369454061 0
+58D:\Projects\goit-js-hw-08\dist\01-gallery.7d68834f.css.map133138473638965742 0
 70D:\Projects\goit-js-hw-08\node_modules\css-tree\lib\syntax\node\Raw.js133132388048676614 0
 77D:\Projects\goit-js-hw-08\node_modules\css-tree\lib\syntax\node\Identifier.js133132388038936606 0
 70D:\Projects\goit-js-hw-08\node_modules\css-tree\lib\syntax\node\Nth.js133132388046806605 0
@@ -3057,6 +3062,7 @@
 58D:\Projects\goit-js-hw-08\node_modules\cosmiconfig\LICENSE133132387985412591 0
 60D:\Projects\goit-js-hw-08\node_modules\cosmiconfig\README.md133132388027156612 0
 73D:\Projects\goit-js-hw-08\node_modules\cosmiconfig\dist\cacheWrapper.d.ts133132388027606611 0
+77D:\Projects\goit-js-hw-08\node_modules\cosmiconfig\dist\cacheWrapper.d.ts.map133132388013306209 0
 73D:\Projects\goit-js-hw-08\node_modules\cosmiconfig\dist\Explorer.d.ts.map133132388015206207 0
 82D:\Projects\goit-js-hw-08\node_modules\@parcel\workers\src\process\ProcessChild.js133132388024496611 0
 71D:\Projects\goit-js-hw-08\node_modules\cosmiconfig\dist\Explorer.js.map133132388016056203 0
@@ -3682,7 +3688,6 @@
 83D:\Projects\goit-js-hw-08\node_modules\caniuse-lite\data\features\resizeobserver.js133132388068606612 0
 84D:\Projects\goit-js-hw-08\node_modules\caniuse-lite\data\features\rest-parameters.js133132388068636615 0
 86D:\Projects\goit-js-hw-08\node_modules\caniuse-lite\data\features\rtcpeerconnection.js133132388068686604 0
-75D:\Projects\goit-js-hw-08\node_modules\caniuse-lite\data\features\run-in.js133132388068766608 0
 95D:\Projects\goit-js-hw-08\node_modules\caniuse-lite\data\features\same-site-cookie-attribute.js133132388068806609 0
 87D:\Projects\goit-js-hw-08\node_modules\caniuse-lite\data\features\screen-orientation.js133132388068906604 0
 81D:\Projects\goit-js-hw-08\node_modules\caniuse-lite\data\features\script-async.js133132388068926617 0
@@ -4140,7 +4145,7 @@
 77D:\Projects\goit-js-hw-08\node_modules\@parcel\transformer-babel\package.json133132388022136605 0
 78D:\Projects\goit-js-hw-08\node_modules\@parcel\transformer-babel\src\babel7.js133132387992002601 0
 88D:\Projects\goit-js-hw-08\node_modules\@parcel\transformer-babel\src\BabelTransformer.js133132388004606202 0
-55D:\Projects\goit-js-hw-08\dist\02-video.a74b541c.js.map133138420373284051 0
+55D:\Projects\goit-js-hw-08\dist\02-video.a74b541c.js.map133138473639125736 0
 78D:\Projects\goit-js-hw-08\node_modules\@parcel\transformer-babel\src\config.js133132388009166206 0
 81D:\Projects\goit-js-hw-08\node_modules\@parcel\transformer-babel\src\constants.js133132388011746208 0
 89D:\Projects\goit-js-hw-08\node_modules\@parcel\transformer-babel\src\remapAstLocations.js133132388017506609 0
@@ -4489,7 +4494,7 @@
 125D:\Projects\goit-js-hw-08\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-no-engines\index.js133132388044426622 0
 129D:\Projects\goit-js-hw-08\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-no-engines\package.json133132388056416611 0
 81D:\Projects\goit-js-hw-08\node_modules\@parcel\core\test\fixtures\parcel\index.js133132388043776609 0
-41D:\Projects\goit-js-hw-08\dist\index.html133138415369294060 0
+41D:\Projects\goit-js-hw-08\dist\index.html133138473638965742 0
 85D:\Projects\goit-js-hw-08\node_modules\@parcel\core\test\fixtures\parcel\package.json133132388056376608 0
 87D:\Projects\goit-js-hw-08\node_modules\@parcel\core\test\fixtures\main-mjs\package.json133132388056306610 0
 90D:\Projects\goit-js-hw-08\node_modules\@parcel\core\test\fixtures\main-global\package.json133132388056266609 0
@@ -4558,7 +4563,7 @@
 81D:\Projects\goit-js-hw-08\node_modules\@parcel\core\lib\serializerCore.browser.js133132388051436608 0
 73D:\Projects\goit-js-hw-08\node_modules\@parcel\core\lib\serializerCore.js133132388051646608 0
 75D:\Projects\goit-js-hw-08\node_modules\@parcel\core\lib\summarizeRequest.js133132388051816614 0
-54D:\Projects\goit-js-hw-08\dist\01-gallery.7d68834f.css133138415369134068 0
+54D:\Projects\goit-js-hw-08\dist\01-gallery.7d68834f.css133138473638965742 0
 82D:\Projects\goit-js-hw-08\node_modules\@parcel\core\lib\TargetDescriptor.schema.js133132388053246605 0
 73D:\Projects\goit-js-hw-08\node_modules\@parcel\core\lib\Transformation.js133132388053836609 0
 64D:\Projects\goit-js-hw-08\node_modules\@parcel\core\lib\types.js133132388053976606 0
@@ -4778,16 +4783,16 @@
 54D:\Projects\goit-js-hw-08\node_modules\.bin\semver.ps1133132388077490756 0
 48D:\Projects\goit-js-hw-08\node_modules\.bin\svgo133132388077490756 0
 52D:\Projects\goit-js-hw-08\node_modules\.bin\svgo.cmd133132388077490756 0
-54D:\Projects\goit-js-hw-08\dist\01-gallery.101ee4ef.css133138415369134068 0
-58D:\Projects\goit-js-hw-08\dist\01-gallery.101ee4ef.css.map133138415369454061 0
-53D:\Projects\goit-js-hw-08\dist\01-gallery.53390864.js133138415369134068 0
-57D:\Projects\goit-js-hw-08\dist\01-gallery.53390864.js.map133138415369454061 0
-46D:\Projects\goit-js-hw-08\dist\01-gallery.html133138415369294060 0
-51D:\Projects\goit-js-hw-08\dist\02-video.a74b541c.js133138420373284051 0
-44D:\Projects\goit-js-hw-08\dist\02-video.html133138415369294060 0
-54D:\Projects\goit-js-hw-08\dist\03-feedback.5440b4f4.js133138415369134068 0
-58D:\Projects\goit-js-hw-08\dist\03-feedback.5440b4f4.js.map133138415369454061 0
-47D:\Projects\goit-js-hw-08\dist\03-feedback.html133138415369294060 0
+54D:\Projects\goit-js-hw-08\dist\01-gallery.101ee4ef.css133138473638965742 0
+58D:\Projects\goit-js-hw-08\dist\01-gallery.101ee4ef.css.map133138473638965742 0
+53D:\Projects\goit-js-hw-08\dist\01-gallery.53390864.js133138473638965742 0
+57D:\Projects\goit-js-hw-08\dist\01-gallery.53390864.js.map133138473639205742 0
+46D:\Projects\goit-js-hw-08\dist\01-gallery.html133138473638965742 0
+51D:\Projects\goit-js-hw-08\dist\02-video.a74b541c.js133138473638885735 0
+44D:\Projects\goit-js-hw-08\dist\02-video.html133138473638965742 0
+54D:\Projects\goit-js-hw-08\dist\03-feedback.5440b4f4.js133138486477485869 0
+58D:\Projects\goit-js-hw-08\dist\03-feedback.5440b4f4.js.map133138486477485869 0
+47D:\Projects\goit-js-hw-08\dist\03-feedback.html133138473638965742 0
 58D:\Projects\goit-js-hw-08\assets\actions-config-step-1.png133132375283520724 0
 49D:\Projects\goit-js-hw-08\assets\how-it-works.png133132375283590742 0
 50D:\Projects\goit-js-hw-08\assets\repo-settings.png133132375283640721 0
